@@ -7,3 +7,5 @@ Please use the NPM packages “mysql” and “inquirer”
 
 ## Follow the prompts to purchase the product. Here are some screenshots below…
 
+[Image 1](images/1_NodeLogin)
+
